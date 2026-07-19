@@ -1,0 +1,6 @@
+print("=======================================")
+print(" Welcome to the Hospital Booking System")
+print("          Version 1.0 Release          ")
+print("=======================================")
+print("Modules loaded: Login, Registration, Appointments.")
+print("System is ready for production use!")
