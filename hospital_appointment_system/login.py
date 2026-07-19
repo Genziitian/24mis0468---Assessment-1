@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-print("Secure Login System")
-=======
-print("Login System v2.0")
->>>>>>> feature-conflict
+print("Secure Login System v2.0")
 
 username = input("Enter username: ")
 password = input("Enter password: ")
